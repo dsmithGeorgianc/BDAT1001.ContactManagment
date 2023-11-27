@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BDAT1001.ContactManagement.props" />
+</Project>

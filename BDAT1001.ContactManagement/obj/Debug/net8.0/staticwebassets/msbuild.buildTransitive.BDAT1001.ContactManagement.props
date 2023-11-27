@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BDAT1001.ContactManagement.props" />
+</Project>
