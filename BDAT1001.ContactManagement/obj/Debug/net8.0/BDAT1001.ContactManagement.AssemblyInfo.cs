@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BDAT1001.ContactManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+160aa122915919cef476e8347d797aa6a93fa635")]
 [assembly: System.Reflection.AssemblyProductAttribute("BDAT1001.ContactManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BDAT1001.ContactManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

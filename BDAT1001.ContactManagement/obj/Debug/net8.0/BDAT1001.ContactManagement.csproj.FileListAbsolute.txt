@@ -514,3 +514,4 @@ C:\Users\dacoriesmith\source\repos\dsmithGeorgianc\BDAT101.ContactManagment\BDAT
 \\Mac\Home\Documents\GitHub\BDAT1001.ContactManagment\BDAT1001.ContactManagement\obj\Debug\net8.0\BDAT1001.ContactManagement.pdb
 \\Mac\Home\Documents\GitHub\BDAT1001.ContactManagment\BDAT1001.ContactManagement\obj\Debug\net8.0\BDAT1001.ContactManagement.genruntimeconfig.cache
 \\Mac\Home\Documents\GitHub\BDAT1001.ContactManagment\BDAT1001.ContactManagement\obj\Debug\net8.0\ref\BDAT1001.ContactManagement.dll
+\\Mac\Home\Documents\GitHub\BDAT1001.ContactManagment\BDAT1001.ContactManagement\obj\Debug\net8.0\BDAT1001.ContactManagement.sourcelink.json
